@@ -4,7 +4,11 @@
 
 * * Deployable Link --  
 
-* * ![screenshot of deployed link] -- 
+![screenshot to website](./assets/images/screenshot-1.png)
+![screenshot to website](./assets/images/screenshot-2.png)
+![screenshot to website](./assets/images/screenshot-3.png)
 
 [Link to deployed website](https://lukesimon32.github.io/Portfolio/#about-me)
+
+
 
